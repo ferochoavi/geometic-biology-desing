@@ -10,3 +10,17 @@ C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\DiseñoGeometricoBiologico\o
 C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.pdb
 C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\DiseñoGeometricoBiologico\bin\Debug\Bunifu_UI_v1.5.3.dll
 C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\bin\Debug\DiseñoGeometricoBiologico.exe.config
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\bin\Debug\DiseñoGeometricoBiologico.exe
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\bin\Debug\DiseñoGeometricoBiologico.pdb
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\bin\Debug\Emgu.CV.xml
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\bin\Debug\Emgu.CV.UI.xml
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\bin\Debug\Emgu.Util.xml
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.Form1.resources
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.Properties.Resources.resources
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.exe
+C:\Users\ferna\OneDrive\Fer\Trabajos\Trabajos en C#\geometic-biology-desing\DiseñoGeometricoBiologico\obj\Debug\DiseñoGeometricoBiologico.pdb
